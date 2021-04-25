@@ -1,0 +1,1 @@
+print(*(int(i.rstrip()) for i in open('data_store.txt')))
