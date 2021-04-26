@@ -1,1 +1,1 @@
-print(*(int(i.rstrip()) for i in open('data_store.txt')))
+16 -2 0 1 0 0 2
